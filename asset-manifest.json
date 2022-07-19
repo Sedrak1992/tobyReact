@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tobyReact/static/css/main.8a5eafe0.css",
+    "main.js": "/tobyReact/static/js/main.8ec5e293.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tobyReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tobyReact/index.html",
+    "main.8a5eafe0.css.map": "/tobyReact/static/css/main.8a5eafe0.css.map",
+    "main.8ec5e293.js.map": "/tobyReact/static/js/main.8ec5e293.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tobyReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5eafe0.css",
+    "static/js/main.8ec5e293.js"
+  ]
+}
