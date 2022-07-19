@@ -13,7 +13,7 @@
 }
 .ChinaElement {
   width: 100%;
-  border: 2px rgb(236, 98, 6) solid;
+  border: 3px rgb(236, 98, 6) solid;
   height: 300px;
   border-radius: 10px;
   display: flex;
